@@ -1,12 +1,12 @@
 # <p align = "center">Hi 👋, I'm Gustavo</p>
 
-## 💫 About Me:
+##  About Me:
 
 🌱 &nbsp;I’m currently learning Golang.\
 💡 &nbsp;"The master has failed more times than the novice has tried".
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ggomezmorales/)
 
 ### • Languages
