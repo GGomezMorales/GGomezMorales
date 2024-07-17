@@ -2,7 +2,8 @@
 
 ## 💫 About Me:
 
-🌱 &nbsp;I’m currently learning Golang.
+🌱 &nbsp;I’m currently learning Golang.\
+💡 &nbsp;"The master has failed more times than the novice has tried".
 
 
 ## 🌐 Socials:
@@ -38,9 +39,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGomezMorales&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GGomezMorales&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GGomezMorales&icon=3&color=6)](https://visitcount.itsvg.in)
