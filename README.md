@@ -34,10 +34,8 @@
 ## GitHub Analytics
 <p align="center">
 <a href="https://github.com/GGomezMorales">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GGomezMorales&show_icons=true&theme=onedark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGomezMorales&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GGomezMorales&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGomezMorales&layout=compact&langs_count=6&theme=onedark"/>
 </a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=GGomezMorales&icon=3&color=6)](https://visitcount.itsvg.in)
